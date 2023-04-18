@@ -6,6 +6,6 @@ Processing images to generate posts images.
 
 After cloning the project, run `npm install` in the project's root.
 
-## Test 
+## Test
 
-To test the library, run `node app.js`
+To test the library, run `node app.js` or `npm test` it will save the output at `res/canvas/`
